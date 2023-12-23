@@ -1,4 +1,6 @@
-**GoMoticon: Terminal Emoticon Search**
+## **GoMoticon: Terminal Emoticon Search** <br>
+##### ***This uses [website](https://www.fastemote.com/) to fetch emoticons***
+
 
 1. **Emotive Exploration:** Search and discover a diverse array of emoticons right from your terminal.
 
