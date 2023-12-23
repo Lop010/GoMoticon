@@ -1,0 +1,2 @@
+# GoMoticon
+Terminal Emoticon Search
